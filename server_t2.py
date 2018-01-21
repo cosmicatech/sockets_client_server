@@ -399,19 +399,18 @@ def main():
 |   SERVSTART - MULIPROCESSING AND SOCKETS EXAMPLE PROGRAM   |
 |   MADE BY @COSMICATECH // HTTPS://GITHUB.COM/COSMICATECH   |
 +------------------------------------------------------------+
-+---------------------------------------------------------------------------------------------------+
-|		COPYRIGHT DISCLAIMER : FOR FULL LICENSE CHECK SOURCE CODE OR TYPE 'license'					|
-|		This program is created and distributed under the GNU General Public License, Version 2.	|
-|																									|
-|		By distributing or modifying this program you show your acceptance of the					|
-|		terms of the GNU Public License Version 2 and all later versions. Not complying				|
-|		with the terms of this license (after distributing or modifying this program)				|
-|		is illeagal and terminates any further rights you hold under this license. 					|
-|																									|
-|		ServStart version 25 (build 688), Copyright (C) 2018 @cosmicatech. 							|
-|		This version of ServStart comes with ABSOLUTELY NO WARRANTY; for details type 'license'. 	|
-|		This is free software, and you are welcome to redistribute it under certain conditions. 	|
-+---------------------------------------------------------------------------------------------------+
+COPYRIGHT DISCLAIMER : FOR FULL LICENSE CHECK SOURCE CODE OR TYPE 'license'
+This program is created and distributed under the GNU General Public License, Version 2.
+
+By distributing or modifying this program you show your acceptance of the
+terms of the GNU Public License Version 2 and all later versions. Not complying
+with the terms of this license (after distributing or modifying this program)
+is illeagal and terminates any further rights you hold under this license.
+
+ServStart version 25 (build 688), Copyright (C) 2018 @cosmicatech.
+This version of ServStart comes with ABSOLUTELY NO WARRANTY; for details type 'license'. 
+This is free software, and you are welcome to redistribute it under certain conditions. 
+
 
     """
 
