@@ -8,18 +8,18 @@
 ## Current Issues:
 #### server.py
 **BEFORE REMOVING LICENSE**
-server_t2.py:7:1: E266 too many leading '#' for block comment
-server_t2.py:18:1: E266 too many leading '#' for block comment
-server_t2.py:19:80: E501 line too long (107 > 79 characters)
-server_t2.py:22:80: E501 line too long (111 > 79 characters)
-server_t2.py:23:80: E501 line too long (107 > 79 characters)
-server_t2.py:24:80: E501 line too long (123 > 79 characters)
-server_t2.py:25:80: E501 line too long (81 > 79 characters)
-server_t2.py:27:80: E501 line too long (113 > 79 characters)
-server_t2.py:28:80: E501 line too long (128 > 79 characters)
-server_t2.py:32:1: E266 too many leading '#' for block comment
-server_t2.py:32:80: E501 line too long (108 > 79 characters)
-server_t2.py:35:1: W191 indentation contains tabs
+server_t2.py:7:1: E266 too many leading '#' for block comment  
+server_t2.py:18:1: E266 too many leading '#' for block comment  
+server_t2.py:19:80: E501 line too long (107 > 79 characters)  
+server_t2.py:22:80: E501 line too long (111 > 79 characters)  
+server_t2.py:23:80: E501 line too long (107 > 79 characters)  
+server_t2.py:24:80: E501 line too long (123 > 79 characters)  
+server_t2.py:25:80: E501 line too long (81 > 79 characters)  
+server_t2.py:27:80: E501 line too long (113 > 79 characters)  
+server_t2.py:28:80: E501 line too long (128 > 79 characters)  
+server_t2.py:32:1: E266 too many leading '#' for block comment  
+server_t2.py:32:80: E501 line too long (108 > 79 characters)  
+server_t2.py:35:1: W191 indentation contains tabs  
 server_t2.py:35:3: E101 indentation contains mixed spaces and tabs
 server_t2.py:36:1: W191 indentation contains tabs
 server_t2.py:36:3: E101 indentation contains mixed spaces and tabs
