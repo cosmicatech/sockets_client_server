@@ -1,8 +1,10 @@
 ##############################################################
 #         MULIPROCESSING AND SOCKETS EXAMPLE PROGRAM         #
-#   MADE BY @COSMICATECH // HTTPS://GITHUB.COM/COSMICATECH   #
-#             Copyright (c) 2017 @COSMICATECH                #
+#   MADE BY @SHAUNAKG // HTTPS://GITHUB.COM/COSMICATECH      #
+#             Copyright (c) 2017 @SHAUNAKG                   #
 ##############################################################
+
+# Note: Updated creator username - still the same person, I just changed my Github username
 
 ### Current Version: 2.0 ###
 # Changelog for this version:
@@ -24,8 +26,7 @@
 # unresponsive state. You will have to close the terminal window or use a program like Task Manager to end the process(es).
 # You can also open a command prompt in Windows and run `taskkill /im python.exe`
 
-# Note 2: Some comments are unusually long and may look bad in other text editors. They line up in the IDE I use,
-# however (Atom). I also highly recommend using Atom, even though (disclaimer!) I am not affiliated with the company in any way.
+# Note 2: Some comments are unusually long and may look bad in other text editors.
 
 # Note 3: Some obsolete code is included for convienience.
 
@@ -52,7 +53,7 @@ def main():
     startart = """\
 +------------------------------------------------------------+
 |   SERVSTART - MULIPROCESSING AND SOCKETS EXAMPLE PROGRAM   |
-|   MADE BY @COSMICATECH // HTTPS://GITHUB.COM/COSMICATECH   |
+|   MADE BY @SHAUNAKG // HTTPS://GITHUB.COM/COSMICATECH      |
 +------------------------------------------------------------+
 - COPYRIGHT DISCLAIMER : FOR FULL LICENSE CHECK SOURCE CODE -
 This program is created and distributed under the GNU General Public License, Version 2.
